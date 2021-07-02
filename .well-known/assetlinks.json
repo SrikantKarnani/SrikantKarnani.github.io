@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
         "namespace": "android_app",
-        "package_name": "com.tatasky.binge",
+        "package_name": "com.example.app",
         "sha256_cert_fingerprints": ["55:12:DB:5C:1F:D6:61:AA:DC:F6:AF:38:89:A8:E3:86:B8:5F:D1:7C:D0:40:B3:56:D7:F7:35:23:1E:9A:D5:11"]
     }
 }]
